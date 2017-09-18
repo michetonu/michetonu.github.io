@@ -9,7 +9,7 @@ I will soon join [bunq](https://www.bunq.com/) as a Data Scientist.
 
 ### Publications
 
-- Tonutti, M., Gras, G., & Yang, G. Z. (2017). A machine learning approach for real-time modelling of tissue deformation in image-guided neurosurgery. Artificial Intelligence in Medicine. [https://doi.org/10.1016/j.artmed.2017.07.004](https://doi.org/10.1016/j.artmed.2017.07.004)
+- Tonutti, M., Gras, G., & Yang, G. Z. (2017). A machine learning approach for real-time modelling of tissue deformation in image-guided neurosurgery. Artificial Intelligence in Medicine, 80, 39-47 [https://doi.org/10.1016/j.artmed.2017.07.004](https://doi.org/10.1016/j.artmed.2017.07.004)
 
 - Tonutti, M., Elson, D. S., Yang, G. Z., Darzi, A. W., & Sodergren, M. H. (2017). The role of technology in minimally invasive surgery: state of the art, recent developments and future directions. Postgraduate medical journal, 93(1097), 159. [http://dx.doi.org/10.1136/postgradmedj-2016-134311](http://dx.doi.org/10.1136/postgradmedj-2016-134311)
 
