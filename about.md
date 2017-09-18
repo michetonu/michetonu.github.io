@@ -4,6 +4,7 @@ title: About Me
 ---
 
 I am a Data Scientist and Machine Learning engineer with a background in Biomedical Engineering and Robotics. I'm currently working at the Perceptual Robotics Lab (PERCRO) of Scuola Superiore Sant'Anna in Pisa, Italy, where I am working on the development of models for manoeuver anticipation as Advanced Driver Assistance Systems.
+
 I will soon start working as a Data Scientist at [bunq](https://www.bunq.com/).
 
 ### Publications
