@@ -3,7 +3,9 @@ layout: page
 title: About Me
 ---
 
-I am a Data Scientist and Machine Learning engineer with a background in Biomedical Engineering and Robotics. I'm currently working at the Perceptual Robotics Lab (PERCRO) of Scuola Superiore Sant'Anna in Pisa, Italy, where I am working on the development of models for manoeuver anticipation as Advanced Driver Assistance Systems.
+<img src="https://i.imgur.com/qV6WVP8.jpg" alt="That's me!" width="130" height="130"/>
+
+My name is **Michele Tonutti**. I am a Data Scientist and Machine Learning engineer with a background in Biomedical Engineering and Robotics. I'm currently working at the Perceptual Robotics Lab (PERCRO) of Scuola Superiore Sant'Anna in Pisa, Italy, where I am working on the development of models for manoeuver anticipation as Advanced Driver Assistance Systems.
 
 I will soon join [bunq](https://www.bunq.com/) as a Data Scientist.
 
