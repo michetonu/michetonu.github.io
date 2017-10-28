@@ -4,9 +4,9 @@ title: The Curse of Sunshine
 tags: plotly python visualization regression
 ---
 
-It is a common stereotype that warm European countries are less productive than colder ones. Many claim that hot and sunny days cause people to be lazy, and that in general things do not work that smoothly in 40º weather. But is this *actually* true? And conversely, does less sunshine and bad weather actually correlate with a better, healthier economy?
+It is a common stereotype that warm European countries are less productive than colder ones. But is this *actually* true? And conversely, does less sunshine and bad weather actually correlate with a better, healthier economy? 
 
-Long story short....**yes**, pretty much. Turns out that European countries which are consistently kissed by the sun throughout the year tend to have worse economies. We may have all suspected that: Greece and Portugal were amongst the main victims of the recent crisis, while Italy and Spain are often in the financial newspapers for the worst reasons. 
+The data says **yes**, pretty much. Turns out that European countries which are consistently kissed by the sun throughout the year tend to have worse economies. We may have all suspected that: Greece and Portugal were amongst the main victims of the recent crisis, while Italy and Spain are often in the financial newspapers for the worst reasons. 
 
 But does this apply to other countries as well? I wanted to check whether there is a correlation when considering the whole continent – and turns out that this is indeed the case. I will not try to explain *why* (I'm not an economist!), but I decided to carry out some simple regression and visualize the results in an intuitive way. I looked at how **yearly sunshine hours** in European countries correlate with that country's economy, using two main indicators: GDP and unemployment rate. I was partly inspired by this [cool map](https://commons.wikimedia.org/wiki/File:Europe_sunshine_hours_map.png) I recently found on Reddit.
 
