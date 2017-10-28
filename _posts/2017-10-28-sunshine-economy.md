@@ -59,9 +59,9 @@ PNG versions of the graphs:
 
 **GDP vs. Sunshine**
 <a href="https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true"  target="_blank">
-![](https://imgur.com/h3dIeQZ.png)</a>
+![](https://imgur.com/1Kfx2QP.png)</a>
 
 **Unemployment vs. Sunshine**
 <a href="https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true"  target="_blank">
-![](https://imgur.com/h3dIeQZ.png)</a>
+![](https://imgur.com/hmlqQf5.png)</a>
 
