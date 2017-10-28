@@ -12,9 +12,9 @@ But does this apply to other countries as well? I wanted to check whether there 
 
 To graph the data I used Python and [Plotly](https://plot.ly/). You can find the code and the (clean) dataset on [my Github](https://github.com/michetonu/europe_sunshine_economy). The graphs are interactive, and not ideal on mobile; you can find the PNG versions [here (GDP)](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true) and [here (unemployment)](https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true)
 
-### 1: Gross Domestic Product (GDP) vs Sunshine Duration
+### 1: GDP vs Sunshine Duration
 
-While the GDP is not the only measure of a country's economy, it is nonetheless considered one of its best indicators. GDP represents the total value of goods and services produced in a country in a specific year; basically, it can be thought of as the size of a country's economy [[1]](http://www.investopedia.com/ask/answers/199.asp). The GDP per capita is further divided by the population of the country, thus proving a useful number which is independent on country size. I plotted the 2016 GDP per-capita figures for each European country against the total hours of sunshine. The GDP data was provided by the [International Monetary Fund](https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/index.aspx), while the climate figures were obtained using a mixture of national and local sources pulled from the [Wiki page](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration). When a national average wasn't available, I took a mean of the available cities. I also decided to include the average yearly temperature in graph, as well as the total GDP as a reference. 
+While the Gross Domestic Product (GDP) is not the only measure of a country's economy, it is nonetheless considered one of its best indicators. It represents the total value of goods and services produced in a country in a specific year; basically, it can be thought of as the 'size' of a country's economy [[1]](http://www.investopedia.com/ask/answers/199.asp). The GDP per capita is that number divided by the population of the country, thus proving a useful number which is independent on country size. I plotted the 2016 GDP per-capita figures for each European country against the total hours of sunshine. The GDP data was provided by the [International Monetary Fund](https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/index.aspx), while the climate figures were obtained using a mixture of national and local sources pulled from the [Wiki page](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration). When a national average wasn't available, I took a mean of the available cities. I also decided to include the average yearly temperature in graph, as well as the total GDP as a reference. 
 
 Here's what came out of it. Note: You can hover on each marker to see the data of the corresponding country.
 
@@ -24,9 +24,9 @@ A few interesting things can be noticed:
 
 - There is a clear negative correlation between sunshine hours and a country's GDP per capita. 
 - Countries with larger total GDP tend to be located above the trendline – meaning that for the same amount of sunshine, they are more productive.
-- The UK is the only "big" economy which is underperforming. Everyone who complains about British weather seems to be totally justified.
+- The UK is the only 'big' economy which is underperforming. Clearly everyone who complains about British weather seems to be totally justified.
 - Thanks to its small size, Luxembourg has an extremely high GDP per capita, and it would have been an outlier regardless of the amount of sunshine.
-- Most of the countries below the line are ex-members of the Eastern Bloc.
+- Most of the countries below the line are ex-members of the Eastern Bloc (Soviet Union + Yugoslavia and other satellite states).
 - For the same amount of sunshine hours, the average yearly temperature does not seem to correlate with GDP.
 
 *Disclaimer:* some countries (e.g. Cyprus, Slovakia, Russia) were not included because the climate data seemed too unreliable. Apologies.
