@@ -58,6 +58,6 @@ PNG versions of the graphs:
 [<img src="http://www.google.com.au/images/nav_logo7.png" height=200 width=125>](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true)
 
 **Unemployment vs. Sunshine**
-<a href="https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png"  target="_blank">
-<img src="https://www.councilofnonprofits.org/sites/default/files/resources-tools/images/feature-network-approach.jpg" height=200 width=125></a>
+<a href="https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true"  target="_blank">
+<img src="https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true" height=200 width=125></img></a>
 
