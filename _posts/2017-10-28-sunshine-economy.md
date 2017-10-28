@@ -55,9 +55,10 @@ I'll leave you with a last piece of advice: if you want lots of sunshine, low un
 
 PNG versions of the graphs: 
 **GDP vs. Sunshine**
-[<img src="http://www.google.com.au/images/nav_logo7.png" height=200 width=125>](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true)
+<a href="https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true"  target="_blank">
+![](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true)</a>
 
 **Unemployment vs. Sunshine**
 <a href="https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true"  target="_blank">
-![](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true)</a>
+![](https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true)</a>
 
