@@ -14,7 +14,7 @@ Long story short....**yes**, pretty much. Turns out that countries kissed by the
 
 I will not try to explain *why* this is the case, but I decided to simply prove it with some simple regression and data visualization. I recently came across this [cool map](https://commons.wikimedia.org/wiki/File:Europe_sunshine_hours_map.png) on Reddit, so I decided to look at how **average sunshine hours** in European countries correlate with a country's economy, using two main indicators: GDP and unemployment rate.
 
-To graph the data I used Python and [Plotly](https://plot.ly/). You can find the code and the (clean) dataset on [my Github](https://github.com/michetonu/europe_sunshine_economy).
+To graph the data I used Python and [Plotly](https://plot.ly/). You can find the code and the (clean) dataset on [my Github](https://github.com/michetonu/europe_sunshine_economy). The graphs are interactive, and not ideal on mobile; you can find the PNG versions [here (GDP)](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true) and [here (unemployment)](https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true)
 
 ### 1: Gross Domestic Product (GDP) vs Sunshine Duration
 
