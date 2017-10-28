@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Does sunshine ruin European economies?
+title: The Curse of Sunshine
 tags: plotly python visualization regression
 ---
 
-Is it true that warm European countries are less productive than colder ones? Do hot and sunny days really cause people to be lazy? Does a lack of good weather actually correlate with a better, healthier economy?
+It is a common stereotype that warm European countries are less productive than colder ones. Many claim that hot and sunny days cause people to be lazy, and that in general things do not work that smoothly in 40º weather. But is this *actually* true? And conversely, does less sunshine and bad weather actually correlate with a better, healthier economy?
 
 When you meet an Italian expat living in northern Europe and want to have some fun, ask them how they are finding the weather up there. Being one myself, I can tell you that there are few things we like to complain about more than how much we miss the Italian sun. Why, then, are so many of us southerners, used to the warm and lazy life, living in the cold North? Why are we so ready to give up good weather, only to spend our lives complaining about it? 
 
@@ -51,8 +51,8 @@ A few striking observations can be made here as well:
 
 ### Conclusions?
 
-With some very simple regression and data visualization we confirmed a few stereotypes about European countries. Nations which receive less sunshine during the year tend to have a lower GDP per capita, and higher unemployment rate. We could also see that those countries that are "underperforming", given their share of sunshine, are mostly those who historically have had less chance to develop a strong and stable economy.
+With some very simple regression and data visualization we confirmed a few stereotypes about European countries. Nations which receive less sunshine during the year tend to have a lower GDP per capita, and higher unemployment rate. We could also see that those countries that are "underperforming", given their share of sunshine, are mostly those who historically have had less chance to develop a strong and stable economy. Interestingly, when I used precipitation data (rainfall) instead of sunshine duration, there was almost no correlation. It is therefore likely that it is not the case of bad weather promoting economic growth, but rather *too much good weather* hindering it. 
 
-But let's be careful – correlation does not necessarily imply causation. Do *siestas* really affect a country's productivity? Does having to go to work in 40º weather make you work less hard? Does the possibility of going to the beach 6 months a year make you less willing to look for a job? We can't draw those type of conclusions from just a couple of graphs, but it's fun to speculate.
+But let's be careful – correlation does not necessarily imply causation. Do *siestas* really affect a country's productivity? Does the possibility of going to the beach 6 months a year make you less willing to look for a job? We can't draw those type of conclusions from just a couple of graphs, but it's fun to speculate. 
 
-A last piece of advice: if you want lots of sunshine, a good chance to get a job, and live in a decently healthy economy, it seems like you should probably move to Malta.
+I'll leave you with a last piece of advice: if you want lots of sunshine, low unemployment, and a decently healthy economy, you should probably move to Malta.
