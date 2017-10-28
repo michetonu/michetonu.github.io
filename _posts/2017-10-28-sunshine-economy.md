@@ -59,5 +59,5 @@ PNG versions of the graphs:
 
 **Unemployment vs. Sunshine**
 <a href="https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png"  target="_blank">
-<img src="https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png" height=200 width=125></a>
+<img src="https://www.councilofnonprofits.org/sites/default/files/resources-tools/images/feature-network-approach.jpg" height=200 width=125></a>
 
