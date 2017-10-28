@@ -5,6 +5,7 @@ description:      'Thoughts on Data Science and Machine Learning'
 
 author:
   name:           'Michele Tonutti'
+baseurl:          /
 
 paginate:         5
 
