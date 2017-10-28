@@ -30,6 +30,8 @@ I am currently based in Amsterdam (NL), and I recently joined [bunq](https://www
 
 [Twitter](https://twitter.com/MicTonu)
 
+[Google Scholar](https://scholar.google.com/citations?user=prnmvyIAAAAJ&hl=en)
+
 ### Contact me
 
 [michetonu@gmail.com](mailto:michetonu@gmail.com)
