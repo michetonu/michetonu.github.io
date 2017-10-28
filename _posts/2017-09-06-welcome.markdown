@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Welcome!
+style: |
+  body {
+		background: HoneyDew;
+	  }
 ---
 
 Welcome to Neural Networks and Chill, which is most definitely not a metaphor for anything rather than talking about machine learning, AI, and data science.
