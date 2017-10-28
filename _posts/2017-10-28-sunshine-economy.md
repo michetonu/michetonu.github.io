@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does sunshine ruin economies?
+title: Does sunshine ruin European economies?
 tags: plotly python visualization regression
 ---
 
