@@ -4,6 +4,8 @@ title: The Curse of Sunshine
 tags: plotly python visualization regression
 ---
 
+*Edit (29/10/17):* The interactive Plotly graphs have a maximum number of visualizations per day (and subscriptions are expensive), so you can find the non-interactive plots [here (GDP)](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true) and [here (unemployment)](https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true)
+
 It is a common stereotype that warm European countries are less productive than colder ones. But is this *actually* true? And conversely, does less sunshine and bad weather actually correlate with a better, healthier economy? 
 
 The data says **yes**, pretty much. Turns out that European countries which are consistently kissed by the sun tend to have worse economies. We may all have suspected that: Greece and Portugal were amongst the main victims of the recent crisis, while Italy and Spain are not exactly swimming in gold. 
