@@ -12,6 +12,7 @@ But does this apply to other countries as well? I wanted to check whether there 
 
 To graph the data I used Python and [Plotly](https://plot.ly/). You can find the code and the (clean) dataset on [my Github](https://github.com/michetonu/europe_sunshine_economy). 
 
+
 ### 1: GDP vs Sunshine Duration
 
 While the Gross Domestic Product (GDP) should not be taken as an infallible measure of a country's economic power, it is nonetheless considered one of the best and objective ways to measure it. The GDP represents the total value of goods and services produced in a country in a specific year; basically, it can be thought of as the 'size' of a country's economy [[1]](http://www.investopedia.com/ask/answers/199.asp). The GDP per capita is that number divided by the population of the country, thus proving a useful number which is independent on country size. I plotted the 2016 GDP per-capita figures for each European country against the total hours of sunshine. The data was provided by the [International Monetary Fund](https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/index.aspx), while the climate figures were obtained using a mixture of national and local sources pulled from the corresponding [Wiki page](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration). When a national average wasn't available, I took a mean of the available cities. I also decided to include the average yearly temperature in graph, as well as the total GDP as a reference. 
@@ -52,6 +53,8 @@ With some very simple regression and data visualization we confirmed a few stere
 But let's be careful – correlation does not necessarily imply causation. Do *siestas* really affect a country's productivity? Does the possibility of going to the beach 6 months a year make you less willing to look for a job? We can't draw those type of conclusions from just a couple of graphs, but it's fun to speculate. 
 
 I'll leave you with a last piece of advice: if you want lots of sunshine, low unemployment, and a decently healthy economy, you should probably move to Malta.
+
+*Edit*: I was given a very good comment on "productivity" vs. "economic output". It is probably more correct to talk about the latter, since countries southern country manage to have a relatively high GDP given their high unemployment – thus effectively being very productive. 
 
 ### Appendix
 
