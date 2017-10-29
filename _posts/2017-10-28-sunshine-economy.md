@@ -54,7 +54,7 @@ But let's be careful – correlation does not necessarily imply causation. Do *s
 
 I'll leave you with a last piece of advice: if you want lots of sunshine, low unemployment, and a decently healthy economy, you should probably move to Malta.
 
-*Edit*: I was given a very good comment on "productivity" vs. "economic output". It is probably more correct to talk about the latter, since countries southern country manage to have a relatively high GDP given their high unemployment – thus effectively being very productive. 
+*Edit*: I was given a very good comment on "productivity" vs. "economic output". It is probably more correct to talk about the latter, since southern countries have a relatively high GDP given their high unemployment – thus effectively being very productive. 
 
 ### Appendix
 
