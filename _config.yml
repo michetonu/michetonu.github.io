@@ -14,4 +14,7 @@ version:          2.1.0
 
 github:           http://github.com/michetonu
 
+gems:
+  - jekyll-archives
+  
 future: true
