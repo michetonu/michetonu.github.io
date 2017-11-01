@@ -50,7 +50,7 @@ A few striking observations can be made here as well:
 
 ### Conclusions?
 
-With some very simple regression and data visualization we confirmed a few stereotypes about European countries. Nations which receive less sunshine during the year tend to have a lower GDP per capita, and higher unemployment rate. We could also see that those countries that are "underperforming", given their share of sunshine, are mostly those who historically have had less chance to develop a strong and stable economy. Interestingly, when I used precipitation data (rainfall) instead of sunshine duration, there was almost no correlation. It is therefore likely that it is not the case of bad weather promoting economic growth, but rather *too much good weather* hindering it. 
+With some very simple regression and data visualization we confirmed a few stereotypes about European countries. Nations which receive more sunshine during the year tend to have a lower GDP per capita, and higher unemployment rate. We could also see that those countries that are "underperforming", given their share of sunshine, are mostly those who historically have had less chance to develop a strong and stable economy. Interestingly, when I used precipitation data (rainfall) instead of sunshine duration, there was almost no correlation. It is therefore likely that it is not the case of bad weather promoting economic growth, but rather *too much good weather* hindering it. 
 
 But let's be careful – correlation does not necessarily imply causation. Do *siestas* really affect a country's productivity? Does the possibility of going to the beach 6 months a year make you less willing to look for a job? We can't draw those type of conclusions from just a couple of graphs, but it's fun to speculate. 
 
