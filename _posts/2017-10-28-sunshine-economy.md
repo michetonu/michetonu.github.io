@@ -4,8 +4,6 @@ title: The Curse of Sunshine
 tags: plotly python visualization regression
 ---
 
-*Edit (29/10/17): The interactive Plotly graphs have a maximum number of visualizations per day (and subscriptions are expensive), so you might not be able to see them. You can find the non-interactive plots PNGs [here (GDP)](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true) and [here (unemployment)](https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true)*
-
 It is a common stereotype that warm European countries are less productive than colder ones. But is this *actually* true? And conversely, does less sunshine and bad weather actually correlate with a better, healthier economy? 
 
 The data says **yes**, pretty much. Turns out that European countries which are consistently kissed by the sun tend to have worse economies. We may all have suspected that: Greece and Portugal were amongst the main victims of the recent crisis, while Italy and Spain are not exactly swimming in gold. 
@@ -19,7 +17,9 @@ To graph the data I used Python and [Plotly](https://plot.ly/). You can find the
 
 While the Gross Domestic Product (GDP) should not be taken as an infallible measure of a country's economic power, it is nonetheless considered one of the best and objective ways to measure it. The GDP represents the total value of goods and services produced in a country in a specific year; basically, it can be thought of as the 'size' of a country's economy [[1]](http://www.investopedia.com/ask/answers/199.asp). The GDP per capita is that number divided by the population of the country, thus proving a useful number which is independent on country size. I plotted the 2016 GDP per-capita figures for each European country against the total hours of sunshine. The data was provided by the [International Monetary Fund](https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/index.aspx), while the climate figures were obtained using a mixture of national and local sources pulled from the corresponding [Wiki page](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration). When a national average wasn't available, I took a mean of the available cities. I also decided to include the average yearly temperature in graph, as well as the total GDP as a reference. 
 
-Here's what came out of it. (Note: You can hover on each marker to see all the data for the corresponding country – this doesn't work very well on mobile, but you can find PNG versions of the graphs at the end of the post.)
+Here's what came out of it. (Note: You can hover on each marker to see all the data for the corresponding country)
+
+*Edit (29/10/17): The interactive Plotly graphs have a maximum number of visualizations per day (and subscriptions are expensive), so you might not be able to see them. You can find the non-interactive plots PNGs [here (GDP)](https://github.com/michetonu/europe_sunshine_economy/blob/master/gdp_sunshine.png?raw=true) and [here (unemployment)](https://github.com/michetonu/europe_sunshine_economy/blob/master/unemployment_sunshine.png?raw=true)*
 
 <iframe width="800" height="500" frameborder="0" scrolling="no" src="//plot.ly/~michetonu/15.embed"></iframe>
 
