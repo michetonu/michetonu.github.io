@@ -19,13 +19,13 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 ### Publications
 
-- Ruhe D., Cinà G., Tonutti M., de Bruin D., Elbers P. (2019). Bayesian Modelling in Practice: Using Uncertainty to Improve Trustworthiness in Medical Applications. AI For Social Good Workshop @ ICML 2019. [Paper](https://aiforsocialgood.github.io/icml2019/accepted/track1/pdfs/38_aisg_icml2019.pdf) - [Poster](https://aiforsocialgood.github.io/icml2019/accepted/track1/posters/38_aisg_icml2019.pdf)
+- Ruhe D., Cinà G., Tonutti M., de Bruin D., Elbers P. (2019). Bayesian Modelling in Practice: Using Uncertainty to Improve Trustworthiness in Medical Applications. AI For Social Good Workshop @ ICML 2019. [[Paper]](https://aiforsocialgood.github.io/icml2019/accepted/track1/pdfs/38_aisg_icml2019.pdf) - [[Poster]](https://aiforsocialgood.github.io/icml2019/accepted/track1/posters/38_aisg_icml2019.pdf) - [[Code]](https://github.com/Pacmed/aisg_2019)
 
-- Tonutti M., Ruffaldi E., Cattaneo A., Avizzano CA (2019). Robust and subject-independent driving manoeuvre anticipation through Domain-Adversarial Recurrent Neural Networks. Robotics and Autonomous Systems, 115, 162-173. [https://doi.org/10.1016/j.robot.2019.02.007](https://doi.org/10.1016/j.robot.2019.02.007)
+- Tonutti M., Ruffaldi E., Cattaneo A., Avizzano CA (2019). Robust and subject-independent driving manoeuvre anticipation through Domain-Adversarial Recurrent Neural Networks. Robotics and Autonomous Systems, 115, 162-173. [https://doi.org/10.1016/j.robot.2019.02.007](https://doi.org/10.1016/j.robot.2019.02.007).  [[Paper (PDF)]](https://arxiv.org/pdf/1902.09820.pdf) - [[Code]](https://github.com/michetonu/DA-RNN_manoeuver_anticipation)
 
-- Tonutti M., Gras G., & Yang G. Z. (2017). A machine learning approach for real-time modelling of tissue deformation in image-guided neurosurgery. Artificial Intelligence in Medicine, 80, 39-47 [https://doi.org/10.1016/j.artmed.2017.07.004](https://doi.org/10.1016/j.artmed.2017.07.004)
+- Tonutti M., Gras G., & Yang G. Z. (2017). A machine learning approach for real-time modelling of tissue deformation in image-guided neurosurgery. Artificial Intelligence in Medicine, 80, 39-47 [https://doi.org/10.1016/j.artmed.2017.07.004](https://doi.org/10.1016/j.artmed.2017.07.004). [[Paper (PDF)]](https://spiral.imperial.ac.uk/bitstream/10044/1/51634/2/machine-learning-approach.pdf) - [[Code]](https://github.com/michetonu/MALTIDEM--Machine-Learning-for-Tissue-Deformation-Modelling)
 
-- Tonutti M., Elson D. S., Yang G. Z., Darzi A. W., & Sodergren M. H. (2016). The role of technology in minimally invasive surgery: state of the art, recent developments and future directions. Postgraduate medical journal, 93(1097), 159. [http://dx.doi.org/10.1136/postgradmedj-2016-134311](http://dx.doi.org/10.1136/postgradmedj-2016-134311)
+- Tonutti M., Elson D. S., Yang G. Z., Darzi A. W., & Sodergren M. H. (2016). The role of technology in minimally invasive surgery: state of the art, recent developments and future directions. Postgraduate medical journal, 93(1097), 159. [http://dx.doi.org/10.1136/postgradmedj-2016-134311](http://dx.doi.org/10.1136/postgradmedj-2016-134311) [[Paper (PDF)]](https://pdfs.semanticscholar.org/ca67/24998c03a2fdbdc459c4717702d5716d414a.pdf)
 
 
 ### Links
