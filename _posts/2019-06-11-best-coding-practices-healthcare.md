@@ -14,6 +14,6 @@ In this article, which I wrote for [Pacmed's Medium page](https://medium.com/@Pa
 
 The first part covers repository structure, IDEs, version control, and virtual environments. The second part focuses on how to write good code - from style and syntax to unit and integration tests.
 
-You can find the two parts on :
-- [Part 1](https://medium.com/@Pacmedhealth/healthy-code-healthy-patients-coding-best-practices-in-medical-data-science-part-1-d4c5ca2c42a)
-- [Part 2](https://medium.com/@Pacmedhealth/healthy-code-healthy-patients-coding-best-practices-in-medical-data-science-part-2-925a21c50b0a)
+You can find the full article at the following links:
+- [Part 1: Repositories, IDEs, git and virtual envs](https://medium.com/@Pacmedhealth/healthy-code-healthy-patients-coding-best-practices-in-medical-data-science-part-1-d4c5ca2c42a)
+- [Part 2: Code design, style, syntax, and tests](https://medium.com/@Pacmedhealth/healthy-code-healthy-patients-coding-best-practices-in-medical-data-science-part-2-925a21c50b0a)
