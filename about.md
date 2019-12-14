@@ -13,6 +13,8 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 ### News
 
+- **December 2019** I gave a guest lecture to Medical Informatics M.Sc. students at the Amsterdam's Academic Medical Center (AMC), where I talked about the challenges of developing and implementing machine-learning-driven decision-support systems in the ICU.
+
 - **June 2019**. Our conference paper on Bayesian modelling to provide uncertainty measures in the ICU is going to the [AI for Social Good Workshop](https://aiforsocialgood.github.io/icml2019/acceptedpapers.htm) at ICML 2019!
 
 - **May 2019**. I gave a talk at Codemotion Amsterdam 2019 with the title: [Scaling is caring: building data processing pipelines for scalable deployment of machine learning models in healthcare](https://www.codemotion.com/magazine/scaling-is-caring-scalable-pipelines-for-machine-learning-in-healthcare-5484). You can find the slides [here](https://www.codemotion.com/magazine/scaling-is-caring-scalable-pipelines-for-machine-learning-in-healthcare-5484).
