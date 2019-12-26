@@ -31,13 +31,13 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 - **Tonutti M.**, Elson D. S., Yang G. Z., Darzi A. W., & Sodergren M. H. (2016). The role of technology in minimally invasive surgery: state of the art, recent developments and future directions. Postgraduate medical journal, 93(1097), 159. [http://dx.doi.org/10.1136/postgradmedj-2016-134311](http://dx.doi.org/10.1136/postgradmedj-2016-134311) [[Paper (PDF)]](https://pdfs.semanticscholar.org/ca67/24998c03a2fdbdc459c4717702d5716d414a.pdf)
 
-### Media et al.
+### Blogs, media et al.
 
 [Scaling is Caring: scalable pipelines for machine learning in healthcare @ Codemotion.com](https://www.codemotion.com/magazine/dev-hub/machine-learning-dev/scaling-is-caring-scalable-pipelines-for-machine-learning-in-healthcare/) 
 
 [Healthy code, healthy patients: coding best practices in medical Data Science @ medium.com/Pacmedhealth](https://medium.com/@Pacmedhealth/healthy-code-healthy-patients-coding-best-practices-in-medical-data-science-part-1-d4c5ca2c42a)
 
-### Links
+### Social & links
 
 [Github](https://github.com/michetonu)
 
