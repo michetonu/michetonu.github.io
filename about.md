@@ -43,6 +43,9 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 Sensible Local Interpretations via Class-Weight Uncertainty and Conditional Perturbation. [[Paper]](https://github.com/Pacmed/sensible-local-interpretations/blob/master/paper.pdf) [[Code]](https://github.com/Pacmed/sensible-local-interpretations)
 
+Uncertainty estimation for classification and risk prediction in medical settings [[Paper]](https://arxiv.org/abs/2004.05824)
+
+
 ### Social & links
 
 [Github](https://github.com/michetonu)
