@@ -27,6 +27,8 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 ### Selected Publications
 
+- Fleuren, L.M., de Bruin, D.P., **Tonutti, M.** et al. Large-scale ICU data sharing for global collaboration: the first 1633 critically ill COVID-19 patients in the Dutch Data Warehouse. Intensive Care Med (2021). https://doi.org/10.1007/s00134-021-06361-x
+
 - Ruhe D., Cinà G., **Tonutti M.**, de Bruin D., Elbers P. (2019). Bayesian Modelling in Practice: Using Uncertainty to Improve Trustworthiness in Medical Applications. AI For Social Good Workshop @ ICML 2019. [[Paper]](https://aiforsocialgood.github.io/icml2019/accepted/track1/pdfs/38_aisg_icml2019.pdf) - [[Poster]](https://aiforsocialgood.github.io/icml2019/accepted/track1/posters/38_aisg_icml2019.pdf) - [[Code]](https://github.com/Pacmed/aisg_2019)
 
 - **Tonutti M.**, Ruffaldi E., Cattaneo A., Avizzano CA (2019). Robust and subject-independent driving manoeuvre anticipation through Domain-Adversarial Recurrent Neural Networks. Robotics and Autonomous Systems, 115, 162-173. [https://doi.org/10.1016/j.robot.2019.02.007](https://doi.org/10.1016/j.robot.2019.02.007).  [[Paper (PDF)]](https://arxiv.org/pdf/1902.09820.pdf) - [[Code]](https://github.com/michetonu/DA-RNN_manoeuver_anticipation)
