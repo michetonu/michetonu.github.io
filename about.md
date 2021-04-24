@@ -13,7 +13,7 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 ### News
 
-- **February 2020** Our paper presenting the [Dutch ICU Data Warehouse](https://icudata.nl/index-en.html), ["Large-scale ICU data sharing for global collaboration: the first 1633 critically ill COVID-19 patients in the Dutch Data Warehouse"](https://link.springer.com/article/10.1007/s00134-021-06361-x), has been published in Intensive Care Medicine.
+- **February 2020** Our paper presenting the [Dutch ICU Data Warehouse](https://icudata.nl/index-en.html), ["Large-scale ICU data sharing for global collaboration: the first 1633 critically ill COVID-19 patients in the Dutch Data Warehouse"](https://link.springer.com/article/10.1007/s00134-021-06361-x), has been published as a letter in Intensive Care Medicine.
 
 - **December 2020** For the second year in a row, I gave a guest lecture to Medical Informatics M.Sc. students at , again talking about the challenges of developing and implementing machine-learning-driven decision-support systems in the Intensive Care.
 
