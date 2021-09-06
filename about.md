@@ -28,9 +28,11 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 - **June 2019**. Our conference paper on Bayesian modelling to provide uncertainty measures in the ICU is going to the [AI for Social Good Workshop](https://aiforsocialgood.github.io/icml2019/acceptedpapers.htm) at ICML 2019!
 
-- **May 2019**. I gave a talk at Codemotion Amsterdam 2019 with the title: [Scaling is caring: building data processing pipelines for scalable deployment of machine learning models in healthcare](https://www.codemotion.com/magazine/scaling-is-caring-scalable-pipelines-for-machine-learning-in-healthcare-5484). You can find the slides [here](https://www.codemotion.com/magazine/scaling-is-caring-scalable-pipelines-for-machine-learning-in-healthcare-5484).
+- **May 2019**. I gave a talk at Codemotion Amsterdam 2019 with the title: "Scaling is caring: building data processing pipelines for scalable deployment of machine learning models in healthcare". You can find the video [here](https://talks.codemotion.com/scaling-is-caring-building-data-processi).
 
 ### Selected Publications
+
+- Fleuren, L.M., Dam, T.A., **Tonutti, M.** et al. The Dutch Data Warehouse, a multicenter and full-admission electronic health records database for critically ill COVID-19 patients. Crit Care 25, 304 (2021). https://doi.org/10.1186/s13054-021-03733-z
 
 - Fleuren, L.M., **Tonutti, M.** et al. Risk factors for adverse outcomes during mechanical ventilation of 1152 COVID-19 patients: a multicenter machine learning study with highly granular data from the Dutch Data Warehouse. ICMx 9, 32 (2021). [https://doi.org/10.1186/s40635-021-00397-5](https://doi.org/10.1186/s40635-021-00397-5) **(co-first author)**
 
