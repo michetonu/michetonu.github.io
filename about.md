@@ -13,6 +13,10 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 ### News
 
+- **September 2021** I presented my work on predicting extubation in COVID-19 ICU patients at a [webinar organized by Big Data Republic](https://www.bigdatarepublic.nl/events/treating-covid-19-with-data/)
+
+- **September 2021** The first peer reviewed article on the validation and impact on Pacmed Critical has been published: ["Explainable Machine Learning on AmsterdamUMCdb for ICU Discharge Decision Support: Uniting Intensivists and Data Scientists"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8437217/)
+ 
 - **June 2021** The first study using the Dutch Data Warehouse Data, for which I am co-first author, has been published on Intensive Care Medicine Experimental:
  ["Risk factors for adverse outcomes during mechanical ventilation of 1152 COVID-19 patients: a multicenter machine learning study with highly granular data from the Dutch Data Warehouse"](https://icm-experimental.springeropen.com/articles/10.1186/s40635-021-00397-5)
  
@@ -32,9 +36,11 @@ In 2017 I worked as a researcher in deep learning at the [Perceptual Robotics La
 
 ### Selected Publications
 
-- Fleuren, L.M., Dam, T.A., **Tonutti, M.** et al. The Dutch Data Warehouse, a multicenter and full-admission electronic health records database for critically ill COVID-19 patients. Crit Care 25, 304 (2021). https://doi.org/10.1186/s13054-021-03733-z
+- Thoral, P. J., Fornasa, M., de Bruin, D. P., **Tonutti, M.**, et al. Explainable Machine Learning on AmsterdamUMCdb for ICU Discharge Decision Support: Uniting Intensivists and Data Scientists. Critical care explorations, 3(9), e0529 (2021). [https://doi.org/10.1097/CCE.0000000000000529](https://doi.org/10.1097/CCE.0000000000000529)
 
 - Fleuren, L.M., **Tonutti, M.** et al. Risk factors for adverse outcomes during mechanical ventilation of 1152 COVID-19 patients: a multicenter machine learning study with highly granular data from the Dutch Data Warehouse. ICMx 9, 32 (2021). [https://doi.org/10.1186/s40635-021-00397-5](https://doi.org/10.1186/s40635-021-00397-5) **(co-first author)**
+
+- Fleuren, L.M., Dam, T.A., **Tonutti, M.** et al. The Dutch Data Warehouse, a multicenter and full-admission electronic health records database for critically ill COVID-19 patients. Crit Care 25, 304 (2021). https://doi.org/10.1186/s13054-021-03733-z
 
 - Fleuren, L.M., de Bruin, D.P., **Tonutti, M.** et al. Large-scale ICU data sharing for global collaboration: the first 1633 critically ill COVID-19 patients in the Dutch Data Warehouse. Intensive Care Med (2021). [https://doi.org/10.1007/s00134-021-06361-x](https://doi.org/10.1007/s00134-021-06361-x)
 
