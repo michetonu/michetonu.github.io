@@ -8,7 +8,7 @@ author:
 baseurl:          /
 
 paginate:         5
-paginate_path:    _posts/page:num/
+paginate_path:    '_posts/page:num/'
 # Custom vars
 version:          2.1.0
 
