@@ -14,7 +14,7 @@ version:          2.5.1
 
 github:           http://github.com/michetonu
 
-theme: minima
+# theme: minima
 
 gems:
   - jekyll-archives
