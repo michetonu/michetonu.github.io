@@ -33,9 +33,3 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
-
-minima:
-  social_links:
-    github: michetonu
-    stackoverflow: "5236005"
-    linkedin: micheletonutti
