@@ -10,7 +10,7 @@ baseurl:          /
 paginate:         5
 paginate_path:    '/blog/page:num/'
 # Custom vars
-version:          2.1.0
+version:          2.5.1
 
 github:           http://github.com/michetonu
 
@@ -31,3 +31,9 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+
+minima:
+  social_links:
+    github: michetonu
+    stackoverflow: "5236005"
+    linkedin: micheletonutti
