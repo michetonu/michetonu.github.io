@@ -5,6 +5,10 @@ title: News
 
 ### News
 
+- **December 2021** For the third consecutive year I was invited as a guest lecturer for the Medical Informatics M.Sc. students at the Amsterdam UMC to talk about the challenges of developing and implementing machine-learning-driven decision-support systems in the Intensive Care.
+
+- **November 2021** I was on stage at PyData Eindhoven 2021 with a talk titled ["Responsible implementation of Machine Learning models for life-and-death decision making"](https://www.youtube.com/watch?v=r63oijinKhI)
+
 - **September 2021** I presented my work on predicting extubation in COVID-19 ICU patients at a [webinar organized by Big Data Republic](https://www.bigdatarepublic.nl/events/treating-covid-19-with-data/)
 
 - **September 2021** The first peer reviewed article on the validation and impact on Pacmed Critical has been published: ["Explainable Machine Learning on AmsterdamUMCdb for ICU Discharge Decision Support: Uniting Intensivists and Data Scientists"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8437217/)
@@ -14,7 +18,7 @@ title: News
  
 - **February 2021** Our paper presenting the [Dutch ICU Data Warehouse](https://icudata.nl/index-en.html), ["Large-scale ICU data sharing for global collaboration: the first 1633 critically ill COVID-19 patients in the Dutch Data Warehouse"](https://link.springer.com/article/10.1007/s00134-021-06361-x), has been published as a letter in Intensive Care Medicine.
 
-- **December 2020** For the second year in a row, I gave a guest lecture to Medical Informatics M.Sc. students at the Amsterdam UMC, again talking about the challenges of developing and implementing machine-learning-driven decision-support systems in the Intensive Care.
+- **December 2020** For the second year in a row, I gave a guest lecture to the Medical Informatics M.Sc. students at the Amsterdam UMC, again talking about the challenges of developing and implementing machine-learning-driven decision-support systems in the Intensive Care.
 
 - **November 2020** The [Dutch ICU Data Warehouse](https://icudata.nl/index-en.html) project officially started, with the aim of allowing Dutch ICUs to share the large amounts of routinely collected data.
 
