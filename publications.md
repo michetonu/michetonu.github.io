@@ -5,9 +5,11 @@ title: Publications
 
 ### Selected Publications
 
+- Fleuren, L.M., Dam, T.A., **Tonutti, M.** et al. Predictors for extubation failure in COVID-19 patients using a machine learning approach. Critical Care 25, 448 (2021). [https://doi.org/10.1186/s13054-021-03864-3](https://doi.org/10.1186/s13054-021-03864-3)
+
 - Thoral, P. J., Fornasa, M., de Bruin, D. P., **Tonutti, M.**, et al. Explainable Machine Learning on AmsterdamUMCdb for ICU Discharge Decision Support: Uniting Intensivists and Data Scientists. Critical care explorations, 3(9), e0529 (2021). [https://doi.org/10.1097/CCE.0000000000000529](https://doi.org/10.1097/CCE.0000000000000529)
 
-- Fleuren, L.M., **Tonutti, M.** et al. Risk factors for adverse outcomes during mechanical ventilation of 1152 COVID-19 patients: a multicenter machine learning study with highly granular data from the Dutch Data Warehouse. ICMx 9, 32 (2021). [https://doi.org/10.1186/s40635-021-00397-5](https://doi.org/10.1186/s40635-021-00397-5) **(co-first author)**
+- Fleuren, L.M.\*, **Tonutti, M.**\* et al. Risk factors for adverse outcomes during mechanical ventilation of 1152 COVID-19 patients: a multicenter machine learning study with highly granular data from the Dutch Data Warehouse. ICMx 9, 32 (2021). [https://doi.org/10.1186/s40635-021-00397-5](https://doi.org/10.1186/s40635-021-00397-5) **(\*co-first author)**
 
 - Fleuren, L.M., Dam, T.A., **Tonutti, M.** et al. The Dutch Data Warehouse, a multicenter and full-admission electronic health records database for critically ill COVID-19 patients. Crit Care 25, 304 (2021). https://doi.org/10.1186/s13054-021-03733-z
 
