@@ -1,3 +1,3 @@
 ## Neural Networks and Chill
 
-Michele Tonutti's blog on Data Science and Machine Learning.
+Michele Tonutti's personal website and blog on Data Science and Machine Learning.
